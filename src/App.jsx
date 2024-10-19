@@ -56,7 +56,7 @@ function App() {
                               <div className="text-white text-md sm:text-lg font-light">L $10.50</div>
                           </div>                    
                       </div>
-                      <div className="flex items-start mb-6 tm-menu-item">
+                      <div className="flex items-start mb-6 tm-menu-item">  
                           <img src="/assets/img/menu-item-2.jpg" alt="Image" className="rounded-md"/>
                           <div className="ml-3 sm:ml-6">
                               <h3 className="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">Hot Americano</h3>
